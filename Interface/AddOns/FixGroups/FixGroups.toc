@@ -1,0 +1,17 @@
+## Interface: 30300
+## Title: FixGroups
+## Author: bencvt (Kader Backport)
+## Version: 1.4.1
+## Notes: Automatically set up groups in raids.
+## DefaultState: Enabled
+## SavedVariables: FixGroupsDB
+## X-Curse-Packaged-Version: v1.4.1
+## X-Curse-Project-Name: FixGroups
+## X-Curse-Project-ID: fixgroups
+## X-Curse-Repository-ID: wow/fixgroups/mainline
+## X-Date: 2021-12-13 @ 10:53 PM |cff808080UTC|r
+
+libs\libs.xml
+locales\locales.xml
+addon.lua
+modules\modules.xml
